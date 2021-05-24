@@ -1,2 +1,2 @@
 # anti-filter.vpn
-این vpn است
+<h2>سلام </h2>
