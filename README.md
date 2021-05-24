@@ -6,6 +6,8 @@
 <body style="background-color: #ffbb22;">
 <h3>می بینید که سایت بروز شده است</h3>
 برای تست این فیلم رو گذاشتیم
-<video controls>
-  <source src="https://aspb14.cdn.asset.aparat.com/aparat-video/d869d8ff4232a0e80e6984c702ffd28113962908-360p.apt?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc1NjM5YzIzYjk3YjhjYTVkMjk3NDlkYmJhMGRjNDBmIiwiZXhwIjoxNjIxOTE0ODA0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SgMtmnWqlKPEYMA3Ru55YgFcKnvZpZsJuQgetb4NLsI" type="video/mp4">
-</video>
+
+  
+<video width="400" controls>
+
+  <source src="https://hw17.cdn.asset.aparat.com/aparat-video/0581e364ddf908b36a101af8db5336cd19151256-360p.apt?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA3ODMxMDNjYjZlOGFkMzZiNDMzYjUxZDc4N2NlMTEzIiwiZXhwIjoxNjIxOTE1NTAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.iU1PvRW8KdkX85SKIRu5WKLF0XvFhOqXkbFm_6jfXxA" type="video/mp4">
