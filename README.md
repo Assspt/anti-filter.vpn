@@ -1,4 +1,4 @@
-<form method="get" action="google.com" target="_blank">
+
 
 
 <input type="submit" value=" آی پی را فعال کنید " action= "google.com">
@@ -9,4 +9,4 @@
 
 <body style="background-color: #000000;">
 
-</form>
+
