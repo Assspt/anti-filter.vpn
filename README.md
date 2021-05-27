@@ -2,7 +2,7 @@
 <button type="button" onclick="alert('ای پی فعال شد اگر دوباره زده آید فعال شده')">فعال کردن ای پی</button>
 
 <button type="button" onclick="alert('ای پی غیر فعال شد اگر دوباره زده ید غیر فعال شده ای پی ')">غیر فعال کردن ای پی</button>
-
+<h2></h2>
 
 <a href="https://t.me/proxy?server=inspanning.dynu.com.filimo.com.aparat.com.samsung-ultra.co.in&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE ">
 استفاده از پروکسی تلگرامی
