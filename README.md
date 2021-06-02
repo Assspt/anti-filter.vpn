@@ -8,12 +8,12 @@
 </a>
 
 <body style="background-color: #000000;">
-<h1></h1>
+<p>
 
 <a href="https://t.me/proxy?server=filler.dynu.com.filimo.com.aparat.com.samsung-ultra.co.in&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE">
 استفاده از پروکسی تلگرامی
 </a>
-<h1></h1>
+<p>
 <a href="https://t.me/proxy?server=ettling.microsoft.com.bingo.com.iranserver.com.host-server.co.in.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t">
 استفاده از پروکسی تلگرامی
 </a>
