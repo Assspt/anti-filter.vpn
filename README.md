@@ -4,18 +4,18 @@
 <button type="button" onclick="alert('ای پی غیر فعال شد اگر دوباره زده ید غیر فعال شده ای پی ')">غیر فعال کردن ای پی</button>
 <h2></h2>
 
-<a href="https://t.me/proxy?server=inspanning.dynu.com.filimo.com.aparat.com.samsung-ultra.co.in&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE ">
+<a href="https://t.me/proxy?server=filler.dynu.com.filimo.com.aparat.com.samsung-ultra.co.in&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE">
 استفاده از پروکسی تلگرامی
 </a>
 
 <body style="background-color: #000000;">
 <h1></h1>
 
-<a href="https://t.me/proxy?server=saved.dynu.com.filimo.com.aparat.com.samsung-ultra.co.in&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE">
+<a href="https://t.me/proxy?server=filler.dynu.com.filimo.com.aparat.com.samsung-ultra.co.in&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE">
 استفاده از پروکسی تلگرامی
 </a>
 <h1></h1>
-<a href="https://t.me/proxy?server=flutter.dynu.com.filimo.com.aparat.com.samsung-ultra.co.in&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE">
+<a href="https://t.me/proxy?server=ettling.microsoft.com.bingo.com.iranserver.com.host-server.co.in.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t">
 استفاده از پروکسی تلگرامی
 </a>
 <h1></h1>
